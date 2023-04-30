@@ -82,10 +82,11 @@ for i in range(0,9):
 ![e](https://user-images.githubusercontent.com/94747031/235337846-15e2c844-afd6-42c3-9d1d-6ff3434723c4.png)
 
 ### Global Thresholding
-![g](https://user-images.githubusercontent.com/94747031/235337854-a93aa9f6-048b-4022-97b7-964c219468e8.png)
-![Uploading f.png…]()
-![j](https://user-images.githubusercontent.com/94747031/235338001-16a0b4c5-7ff7-4136-ad5f-b21cedddf22c.png)
-![h](https://user-images.githubusercontent.com/94747031/235338073-b402be15-0dab-4ef5-9789-10f1c4797e03.png)
+![j11](https://user-images.githubusercontent.com/94747031/235338243-0802f183-8b5e-4fdb-adde-920181107d53.png)
+![j12](https://user-images.githubusercontent.com/94747031/235338246-5a9c3d5b-f035-4f62-96ea-239436639bd0.png)
+![j13](https://user-images.githubusercontent.com/94747031/235338250-c44366b2-2d9a-48a8-aa27-1c2b0aade875.png)
+![Uploading j14.png…]()
+
 
 ### Adaptive Thresholding
 ![l](https://user-images.githubusercontent.com/94747031/235337883-84ebccc3-f2a0-4341-a8dc-b240c80a33a5.png)
