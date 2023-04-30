@@ -87,7 +87,6 @@ for i in range(0,9):
 ![j13](https://user-images.githubusercontent.com/94747031/235338250-c44366b2-2d9a-48a8-aa27-1c2b0aade875.png)
 ![j14](https://user-images.githubusercontent.com/94747031/235338385-7450f8db-98c6-4537-96a2-3c1dc23cdc52.png)
 
-
 ### Adaptive Thresholding
 ![l](https://user-images.githubusercontent.com/94747031/235337883-84ebccc3-f2a0-4341-a8dc-b240c80a33a5.png)
 ![m](https://user-images.githubusercontent.com/94747031/235338045-eb28c0e4-3789-47f1-b004-e46f01fa553a.png)
